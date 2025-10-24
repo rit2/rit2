@@ -1,4 +1,4 @@
-# Hi, I'm [Your Actual Name] 👋
+# Hi, I'm Rithvicca Manimaran 👋
 
 ## Full Stack Web Developer
 
