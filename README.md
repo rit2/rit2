@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Your Actual Name] 👋
 
-<!--
-**rit2/rit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer
 
-Here are some ideas to get you started:
+- 🔭 Building modern web applications
+- 🌱 Learning cloud technologies
+- 💼 Available for freelance projects
+- 📫 Contact: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: React, JavaScript, HTML/CSS
+- Backend: Node.js, Express
+- Database: PostgreSQL, MongoDB
+- Cloud: AWS
+
+## Currently Working On
+- Portfolio website
+- E-commerce project
+- Learning advanced React patterns
